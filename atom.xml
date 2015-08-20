@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[VietHP]]></title>
   <link href="http://viethp.github.io/atom.xml" rel="self"/>
   <link href="http://viethp.github.io/"/>
-  <updated>2015-08-20T13:55:06+07:00</updated>
+  <updated>2015-08-20T15:39:01+07:00</updated>
   <id>http://viethp.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[VietHP]]></name>
+    <email><![CDATA[haphuocviet@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
