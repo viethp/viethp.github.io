@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://viethp.github.io/atom.xml" rel="self"/>
   <link href="http://viethp.github.io/"/>
-  <updated>2015-08-20T13:07:11+07:00</updated>
+  <updated>2015-08-20T13:55:06+07:00</updated>
   <id>http://viethp.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,22 @@
     <link href="http://viethp.github.io/blog/2015/08/20/test/"/>
     <updated>2015-08-20T13:04:03+07:00</updated>
     <id>http://viethp.github.io/blog/2015/08/20/test</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>test</h1>
+
+<p>Objective C block</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='objc'><span class='line'><span class="k">@property</span><span class="p">(</span><span class="k">strong</span><span class="p">,</span> <span class="k">nonatomic</span><span class="p">)</span> <span class="bp">UIImage</span> <span class="o">*</span><span class="n">image</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'><span class="p">-</span> <span class="p">(</span><span class="kt">void</span><span class="p">)</span><span class="nf">test:</span><span class="p">(</span><span class="bp">NSString</span><span class="o">*</span><span class="p">)</span><span class="nv">abc</span> <span class="p">{</span>
+</span><span class='line'>  <span class="bp">NSArray</span> <span class="o">*</span><span class="n">a</span> <span class="o">=</span> <span class="p">[</span><span class="bp">NSArray</span> <span class="n">new</span><span class="p">];</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
 ]]></content>
   </entry>
   
