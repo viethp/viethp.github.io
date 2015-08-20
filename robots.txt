@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://viethp.github.io/sitemap.xml 
